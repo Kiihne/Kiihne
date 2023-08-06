@@ -1,5 +1,9 @@
-### Hi there 👋
+### Welcome to my profile! 👋
+my name is Avery Kiihne. I gained a love for computational research while pursuing an astrophysics degree 🛰️. I worked extensively on a computational research project, which can be found under "PDF-kiihne". I have worked in, to varying degrees, the following languages: Python, MATLAB, Bash, R, SQL, and Mathematica. 
 
+In my free time I enjoy cooking 🍳 and fencing 🤺.
+
+I can be reached @ kiihne1999@gmail.com
 <!--
 **Kiihne/Kiihne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
