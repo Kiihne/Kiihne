@@ -1,5 +1,5 @@
 ### Welcome to my profile! 👋
-my name is Avery Kiihne. I gained a love for computational research while pursuing an astrophysics degree 🛰️. I worked extensively on a computational research project, which can be found under "PDF-kiihne". I also have a number of repositories of work I did at NOAA. Most prominently, weekly-health-checker. I have worked in, to varying degrees, the following languages: Python, MATLAB, linux, R, SQL, and Mathematica. 
+my name is Avery Kiihne. I gained a love for computational research while pursuing an astrophysics degree 🛰️. I worked extensively on a computational research project, which can be found under "PDF-kiihne". I also have a number of repositories of work I did at NOAA. Most prominently, weekly-EPMT-report. I have worked in, to varying degrees, the following languages: Python, MATLAB, linux, R, SQL, and Mathematica. 
 
 In my free time I enjoy cooking 🍳 and fencing 🤺.
 
